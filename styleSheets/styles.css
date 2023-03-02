@@ -1,0 +1,111 @@
+
+.body{
+    background: #4326e4;  
+    background: linear-gradient(to right, #2bebb1, #647ef3);
+  }
+.h1 {
+  background-color: black;
+  color: white;
+  
+}
+
+.bannerimg{
+  width: 2000px;
+  height: 700px;
+}
+
+.bannerimgg{
+  width: 3000px;
+  height: 700px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    
+  }
+  .container2{
+    color: rgb(220, 250, 250);
+    text-align: center;
+    max-width: 80%;
+    margin:  100px;
+    background: rgb(18 213 141);
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.2);
+    padding: 30px 30px;
+    border-radius: 1;
+    margin-left: 8%;
+  }
+  .container3{
+      position: relative;
+      text-align: center;
+      color: rgb(220, 250, 250);;
+    max-width: 500px;
+    margin:  80px;
+    padding: 30px 30px;
+    border-radius: 1
+  }
+
+  .centered {
+    position: absolute;
+    top: 30%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    font-size:25px ;
+    font-style: arial;
+  }
+
+
+  .parent {
+    text-align: center;
+    max-width: 80%;
+    margin:  80px;
+    background: rgb(18 213 141);
+    box-shadow: 20px 15px 20px rgba(0, 0, 0, 0.2);
+    padding: 30px 30px;
+    border-radius: 12px;
+    margin-left: 8%;
+    
+  }
+  .child {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 18px;
+        max-width: 1000px;
+        margin: 10px;
+        background: #ffffff;
+        box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.2);
+        padding: 25px 50px;
+        border-radius: 10px;
+       
+  }
+  .parent2 {
+    text-align: center;
+    max-width: 80%;
+    margin:  80px;
+    background: rgb(18 213 141);
+    box-shadow: 20px 15px 20px rgba(0, 0, 0, 0.2);
+    padding: 30px 30px;
+    border-radius: 12px;
+    margin-left: 8%;
+    
+  }
+  .child2 {
+    display: inline-block;
+    vertical-align: middle;
+     background: rgb(18 213 141);
+    font-size: 18px;
+        max-width: 1000px;
+        margin: 10px;
+        background: #ffffff;
+        box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.2);
+        padding: 25px 50px;
+        border-radius: 10px;
+  }
+  .child h1{
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-weight: 900;
+    color:#3cb38f;
+
+  }
+
